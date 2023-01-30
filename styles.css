@@ -1,0 +1,70 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+nav{
+    background-color: blue;
+    color: white;
+}
+ul{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+li{
+    list-style: none;
+    line-height:0px;
+    margin-right: 50px;
+}
+li p{
+    color: gold;
+}
+nav ul li button{
+    width: 100px;
+    color: blue;
+    background-color:white ;
+    padding: 10px;
+    border: 0px;
+}
+input{
+    width: 400px;
+    padding: 10px;
+    outline: none;
+    border: none;
+}
+.fa-solid{
+    color: blue;
+  
+    
+}
+#input{
+    background-color: white;
+ 
+  
+}
+select{
+    outline: none;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+.navdetails img{
+ height: 50px;
+
+}
+.navdetails p{
+    color: black;
+}
+.navdetails ul li {
+    margin-left: 100px;
+}
+.fa-cart-shopping{
+    color: white;
+    margin-left: 20px;
+}
+.imgslider .carousel{
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+}
